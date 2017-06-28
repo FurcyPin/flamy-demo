@@ -1,0 +1,186 @@
+{
+  "stdout": [
+    [
+      0,
+      "flamy> "
+    ],
+    [
+      0.515417,
+      "c"
+    ],
+    [
+      0.098073,
+      "h"
+    ],
+    [
+      0.105147,
+      "e"
+    ],
+    [
+      0.386821,
+      "\b\u001b[K\b\u001b[K\b\u001b[Kcheck "
+    ],
+    [
+      0.711963,
+      "q"
+    ],
+    [
+      0.077609,
+      "u"
+    ],
+    [
+      0.242044,
+      "i"
+    ],
+    [
+      0.102869,
+      "c"
+    ],
+    [
+      0.280223,
+      "\b\u001b[K\b\u001b[K\b\u001b[K\b\u001b[Kquick "
+    ],
+    [
+      0.666652,
+      "\r\r\n"
+    ],
+    [
+      1.761639,
+      "INFO: Files analyzed: 12    Failures: 0\r\n"
+    ],
+    [
+      0.235568,
+      "\u001b[32mok: file:///home/user/flamy-demo/model/nasa/facts.db/http_status/CREATE.hql\u001b[39m"
+    ],
+    [
+      8.8e-05,
+      "\r\n"
+    ],
+    [
+      0.004992,
+      "\u001b[32mok: file:///home/user/flamy-demo/model/nasa/nasa_access.db/daily_logs/CREATE.hql\u001b[39m"
+    ],
+    [
+      8.7e-05,
+      "\r\n"
+    ],
+    [
+      0.004146,
+      "\u001b[32mok: file:///home/user/flamy-demo/model/nasa/nasa_access.db/daily_url_error_rates/CREATE.hql\u001b[39m"
+    ],
+    [
+      8.6e-05,
+      "\r\n"
+    ],
+    [
+      0.003705,
+      "\u001b[32mok: file:///home/user/flamy-demo/model/nasa/nasa_access.db/daily_urls/CREATE.hql\u001b[39m"
+    ],
+    [
+      5.6e-05,
+      "\r\n"
+    ],
+    [
+      0.004526,
+      "\u001b[32mok: file:///home/user/flamy-demo/model/nasa/nasa_access.db/daily_urls_with_error/CREATE.hql\u001b[39m"
+    ],
+    [
+      6.1e-05,
+      "\r\n"
+    ],
+    [
+      0.004214,
+      "\u001b[32mok: file:///home/user/flamy-demo/model/nasa/nasa_access_import.db/daily_logs/CREATE.hql\u001b[39m"
+    ],
+    [
+      5.9e-05,
+      "\r\n"
+    ],
+    [
+      0.003202,
+      "\u001b[32mok: file:///home/user/flamy-demo/model/nasa/nasa_access_import.db/raw_data/CREATE.hql\u001b[39m"
+    ],
+    [
+      5.7e-05,
+      "\r\n"
+    ],
+    [
+      0.496288,
+      "\u001b[31mnot ok: file:///home/user/flamy-demo/model/nasa/nasa_access.db/daily_logs/POPULATE.hql\u001b[39m"
+    ],
+    [
+      5.2e-05,
+      "\r\n"
+    ],
+    [
+      0.005444,
+      "Error found in table nasa_access.daily_logs `nasa_access.daily_logs` :\r\n  line 14:0 cannot recognize input near 'FROM' 'nasa_access_import' '.' in selection target\r\n-     L.line,\r\n>>> FROM nasa_access_import.daily_logs L\r\n-   LEFT JOIN facts.http_status H\r\n    Logs available at : file:///tmp/flamy-fpin/2017-06-26_15.47.46_22460@fpin-samsung/logs/nasa_access.db/daily_logs/POPULATE.hql.err"
+    ],
+    [
+      6.2e-05,
+      "\r\n"
+    ],
+    [
+      0.153154,
+      "\u001b[32mok: file:///home/user/flamy-demo/model/nasa/nasa_access.db/daily_url_error_rates/POPULATE.hql\u001b[39m"
+    ],
+    [
+      7.7e-05,
+      "\r\n"
+    ],
+    [
+      0.014525,
+      "\u001b[32mok: file:///home/user/flamy-demo/model/nasa/nasa_access.db/daily_urls/POPULATE.hql\u001b[39m"
+    ],
+    [
+      0.000187,
+      "\r\n"
+    ],
+    [
+      0.01381,
+      "\u001b[32mok: file:///home/user/flamy-demo/model/nasa/nasa_access.db/daily_urls_with_error/POPULATE.hql\u001b[39m\r\n"
+    ],
+    [
+      0.063157,
+      "\u001b[32mok: file:///home/user/flamy-demo/model/nasa/nasa_access_import.db/daily_logs/POPULATE.hql\u001b[39m"
+    ],
+    [
+      0.000177,
+      "\r\n"
+    ],
+    [
+      0.001801,
+      "INFO: Files analyzed: 12    Failures: 1"
+    ],
+    [
+      0.000157,
+      "\r\n"
+    ],
+    [
+      0.001662,
+      "\u001b[31mERROR: Interrupting command, some file were not validated.\u001b[39m"
+    ],
+    [
+      0.000179,
+      "\r\n"
+    ],
+    [
+      0.004307,
+      "flamy> "
+    ],
+    [
+      0.996342,
+      "\r\n"
+    ]
+  ],
+  "height": 30,
+  "version": 1,
+  "title": null,
+  "duration": 9.485451,
+  "width": 140,
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "command": "./demo.sh"
+}

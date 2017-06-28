@@ -1,0 +1,258 @@
+{
+  "title": null,
+  "width": 80,
+  "duration": 16.617465,
+  "stdout": [
+    [
+      0,
+      "flamy> "
+    ],
+    [
+      0.438385,
+      "s"
+    ],
+    [
+      0.088465,
+      "h"
+    ],
+    [
+      0.245997,
+      "o"
+    ],
+    [
+      0.123594,
+      "w"
+    ],
+    [
+      0.237624,
+      " "
+    ],
+    [
+      0.123608,
+      "s"
+    ],
+    [
+      0.165607,
+      "c"
+    ],
+    [
+      0.231764,
+      "h"
+    ],
+    [
+      0.455891,
+      "e"
+    ],
+    [
+      0.346393,
+      "m"
+    ],
+    [
+      0.072455,
+      "a"
+    ],
+    [
+      0.180291,
+      "s"
+    ],
+    [
+      0.146225,
+      " "
+    ],
+    [
+      0.374527,
+      "-"
+    ],
+    [
+      0.133709,
+      "-"
+    ],
+    [
+      0.107623,
+      "o"
+    ],
+    [
+      0.103338,
+      "n"
+    ],
+    [
+      0.145793,
+      " "
+    ],
+    [
+      0.192369,
+      "l"
+    ],
+    [
+      0.168958,
+      "o"
+    ],
+    [
+      0.036737,
+      "c"
+    ],
+    [
+      0.119232,
+      "a"
+    ],
+    [
+      0.134037,
+      "l"
+    ],
+    [
+      0.30571,
+      "\r\r\n"
+    ],
+    [
+      0.678959,
+      "Found 1 schemas with 0 tables:\r\n    - default (0)\r\n"
+    ],
+    [
+      0.003778,
+      "flamy> "
+    ],
+    [
+      0.430605,
+      "show schemas --on local"
+    ],
+    [
+      1.151193,
+      "\u001b[23D"
+    ],
+    [
+      0.340239,
+      "how schemas --on local\u001b[K\u001b[22D"
+    ],
+    [
+      0.181268,
+      "ow schemas --on local\u001b[K\u001b[21D"
+    ],
+    [
+      0.179581,
+      "w schemas --on local\u001b[K\u001b[20D"
+    ],
+    [
+      0.184681,
+      " schemas --on local\u001b[K\u001b[19D"
+    ],
+    [
+      0.525783,
+      "p schemas --on local\u001b[19D"
+    ],
+    [
+      0.19667,
+      "u schemas --on local\u001b[19D"
+    ],
+    [
+      0.104608,
+      "s schemas --on local\u001b[19D"
+    ],
+    [
+      0.091411,
+      "h schemas --on local\u001b[19D"
+    ],
+    [
+      0.29423,
+      "\u001b[19C\r\r\n"
+    ],
+    [
+      0.416428,
+      "Running presets: model/model_PRESETS.hql\r\n"
+    ],
+    [
+      1.297658,
+      "\u001b[32mok: file:///home/user/model/model_PRESETS.hql\u001b[39m"
+    ],
+    [
+      0.000144,
+      "\r\n"
+    ],
+    [
+      0.235023,
+      "\u001b[32mok: file:///home/user/model/nasa/facts.db\u001b[39m\r\n"
+    ],
+    [
+      0.118085,
+      "\u001b[32mok: file:///home/user/model/nasa/nasa_access.db\u001b[39m"
+    ],
+    [
+      7.8e-05,
+      "\r\n"
+    ],
+    [
+      0.130945,
+      "\u001b[32mok: file:///home/user/model/nasa/nasa_access_import.db\u001b[39m\r\n"
+    ],
+    [
+      0.002916,
+      "flamy> "
+    ],
+    [
+      0.48806,
+      "push schemas --on local"
+    ],
+    [
+      0.468303,
+      "\u001b[23D\u001b[Kshow schemas --on local"
+    ],
+    [
+      0.707946,
+      "\r\r\n"
+    ],
+    [
+      0.184712,
+      "Found 4 schemas with 0 tables:"
+    ],
+    [
+      9.8e-05,
+      "\r\n"
+    ],
+    [
+      8.1e-05,
+      "    - default (0)"
+    ],
+    [
+      8.2e-05,
+      "\r\n"
+    ],
+    [
+      8.2e-05,
+      "    - facts (0)"
+    ],
+    [
+      8e-05,
+      "\r\n"
+    ],
+    [
+      8.2e-05,
+      "    - nasa_access (0)"
+    ],
+    [
+      8.4e-05,
+      "\r\n"
+    ],
+    [
+      8.5e-05,
+      "    - nasa_access_import (0)"
+    ],
+    [
+      0.000126,
+      "\r\n"
+    ],
+    [
+      0.002389,
+      "flamy> "
+    ],
+    [
+      1.000457,
+      "\r\n"
+    ]
+  ],
+  "command": "./demo.sh",
+  "version": 1,
+  "height": 22,
+  "env": {
+    "SHELL": "/bin/bash",
+    "TERM": "xterm"
+  }
+}
