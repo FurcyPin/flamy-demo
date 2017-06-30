@@ -1,0 +1,74 @@
+{
+  "command": "./demo.sh",
+  "stdout": [
+    [
+      0,
+      "flamy> "
+    ],
+    [
+      1.655387,
+      "s"
+    ],
+    [
+      0.160858,
+      "h"
+    ],
+    [
+      0.158051,
+      "o"
+    ],
+    [
+      0.32324,
+      "\b\u001b[K\b\u001b[K\b\u001b[Kshow "
+    ],
+    [
+      0.599378,
+      "t"
+    ],
+    [
+      0.072658,
+      "a"
+    ],
+    [
+      0.182571,
+      "b"
+    ],
+    [
+      0.120685,
+      "l"
+    ],
+    [
+      0.267983,
+      "\b\u001b[K\b\u001b[K\b\u001b[K\b\u001b[Ktables "
+    ],
+    [
+      0.64428,
+      "\r\r\n"
+    ],
+    [
+      0.148351,
+      "Found 7 tables in 3 schemas :\r\n    - facts (1) : \r\n        - http_status\r\n    - nasa_access (4) : \r\n        - daily_logs\r\n        - daily_url_error_rates\r\n        - daily_urls\r\n        - daily_urls_with_error\r\n    - nasa_access_import (2) : \r\n        - daily_logs\r\n        - raw_data"
+    ],
+    [
+      7.3e-05,
+      "\r\n"
+    ],
+    [
+      0.007987,
+      "flamy> "
+    ],
+    [
+      1.082843,
+      "\r\n"
+    ]
+  ],
+  "duration": 7.955585,
+  "width": 80,
+  "version": 1,
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "title": null,
+  "height": 20
+}

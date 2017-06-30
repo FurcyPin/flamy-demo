@@ -1,0 +1,12 @@
+*/
+
+!nasa_access_import.db
+!nasa_access_import.db/raw_data
+!nasa_access_import.db/raw_data/**
+!facts.db
+!facts.db/http_status
+!facts.db/http_status/data.tsv
+
+
+
+

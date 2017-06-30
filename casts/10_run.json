@@ -1,0 +1,886 @@
+{
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "version": 1,
+  "height": 40,
+  "stdout": [
+    [
+      0,
+      "flamy> "
+    ],
+    [
+      0.970634,
+      "r"
+    ],
+    [
+      0.139198,
+      "u"
+    ],
+    [
+      0.076731,
+      "n"
+    ],
+    [
+      0.195067,
+      " "
+    ],
+    [
+      0.340844,
+      "-"
+    ],
+    [
+      0.129253,
+      "-"
+    ],
+    [
+      0.10585,
+      "o"
+    ],
+    [
+      0.068593,
+      "n"
+    ],
+    [
+      0.109316,
+      " "
+    ],
+    [
+      0.242421,
+      "l"
+    ],
+    [
+      0.174246,
+      "o"
+    ],
+    [
+      0.050276,
+      "c"
+    ],
+    [
+      0.100259,
+      "a"
+    ],
+    [
+      0.120251,
+      "l"
+    ],
+    [
+      0.187078,
+      " "
+    ],
+    [
+      0.198215,
+      "n"
+    ],
+    [
+      0.040822,
+      "a"
+    ],
+    [
+      0.167406,
+      "s"
+    ],
+    [
+      0.435378,
+      "\b\u001b[K\b\u001b[K\b\u001b[Knasa_access\r\r\nnasa_access          nasa_access_import   \r\r\nflamy> run --on local nasa_access"
+    ],
+    [
+      0.669845,
+      "\r\r\n"
+    ],
+    [
+      1.910548,
+      "INFO: Files analyzed: 12    Failures: 0\r\n"
+    ],
+    [
+      0.385096,
+      "\u001b[32mok: file:///home/user/model/nasa/facts.db/http_status/CREATE.hql\u001b[39m\r\n"
+    ],
+    [
+      0.004673,
+      "\u001b[32mok: file:///home/user/model/nasa/nasa_access.db/daily_logs/CREATE.hql\u001b[39m\r\n"
+    ],
+    [
+      0.003734,
+      "\u001b[32mok: file:///home/user/model/nasa/nasa_access.db/daily_url_error_rates/CREATE.hql\u001b[39m\r\n"
+    ],
+    [
+      0.004446,
+      "\u001b[32mok: file:///home/user/model/nasa/nasa_access.db/daily_urls/CREATE.hql\u001b[39m"
+    ],
+    [
+      8.4e-05,
+      "\r\n"
+    ],
+    [
+      0.004283,
+      "\u001b[32mok: file:///home/user/model/nasa/nasa_access.db/daily_urls_with_error/CREATE.hql\u001b[39m\r\n"
+    ],
+    [
+      0.003861,
+      "\u001b[32mok: file:///home/user/model/nasa/nasa_access_import.db/daily_logs/CREATE.hql\u001b[39m\r\n"
+    ],
+    [
+      0.141595,
+      "\u001b[32mok: file:///home/user/model/nasa/nasa_access.db/daily_logs/POPULATE.hql\u001b[39m\r\n"
+    ],
+    [
+      0.01515,
+      "\u001b[32mok: file:///home/user/model/nasa/nasa_access.db/daily_url_error_rates/POPULATE.hql\u001b[39m\r\n"
+    ],
+    [
+      0.008371,
+      "\u001b[32mok: file:///home/user/model/nasa/nasa_access.db/daily_urls/POPULATE.hql\u001b[39m\r\n"
+    ],
+    [
+      0.010017,
+      "\u001b[32mok: file:///home/user/model/nasa/nasa_access.db/daily_urls_with_error/POPULATE.hql\u001b[39m\r\n"
+    ],
+    [
+      0.001696,
+      "INFO: Files analyzed: 10    Failures: 0\r\n"
+    ],
+    [
+      0.059963,
+      "Running presets: model/model_PRESETS.hql\r\n"
+    ],
+    [
+      0.397077,
+      "\u001b[32mok: file:///home/user/model/model_PRESETS.hql\u001b[39m\r\n"
+    ],
+    [
+      0.11386,
+      "Preparing environment ... \r\n"
+    ],
+    [
+      0.004247,
+      "\u001b[32mok: file:///home/user/model/nasa/facts.db\u001b[39m\r\n"
+    ],
+    [
+      0.001669,
+      "\u001b[32mok: file:///home/user/model/nasa/nasa_access.db\u001b[39m\r\n"
+    ],
+    [
+      0.001504,
+      "\u001b[32mok: file:///home/user/model/nasa/nasa_access_import.db\u001b[39m\r\n"
+    ],
+    [
+      0.005575,
+      "\u001b[32mok: file:///home/user/model/nasa/nasa_access.db/daily_urls/CREATE.hql\u001b[39m\r\n"
+    ],
+    [
+      0.001683,
+      "\u001b[32mok: file:///home/user/model/nasa/nasa_access.db/daily_logs/CREATE.hql\u001b[39m\r\n"
+    ],
+    [
+      0.002028,
+      "\u001b[32mok: file:///home/user/model/nasa/nasa_access.db/daily_url_error_rates/CREATE.hql\u001b[39m\r\n"
+    ],
+    [
+      0.001971,
+      "\u001b[32mok: file:///home/user/model/nasa/nasa_access.db/daily_urls_with_error/CREATE.hql\u001b[39m\r\n"
+    ],
+    [
+      0.001848,
+      "\u001b[32mok: file:///home/user/model/nasa/nasa_access_import.db/daily_logs/CREATE.hql\u001b[39m\r\n"
+    ],
+    [
+      0.001758,
+      "\u001b[32mok: file:///home/user/model/nasa/facts.db/http_status/CREATE.hql\u001b[39m\r\n"
+    ],
+    [
+      0.007737,
+      "INFO: Files ran: 10    Failures: 0\r\n... environment prepared.\r\n"
+    ],
+    [
+      0.033489,
+      "\rnasa_access.daily_logs : {DAY -> \"1995-08-08\"}                                                                                                                \r\n\rStarted :                                                                                                                                                     \r\n\r                                                                                                                                                              \r\n\u001b[3A\u001b[3B"
+    ],
+    [
+      2.430216,
+      "\u001b[3A\rnasa_access.daily_logs : {DAY -> \"1995-08-08\"}                                                                                                                \r\n\rSuccess:  (2 seconds)                                                                                                                                         \r\n\r                                                                                                                                                              \r\n\u001b[3A\u001b[3B"
+    ],
+    [
+      0.022668,
+      "\rnasa_access.daily_urls : {DAY -> \"1995-08-08\"}                                                                                                                \r\n\rStarted :                                                                                                                                                     \r\n\r                                                                                                                                                              \r\n\u001b[3A\u001b[3B"
+    ],
+    [
+      0.001446,
+      "\rnasa_access.daily_urls_with_error : {DAY -> \"1995-08-08\"}                                                                                                     \r\n\rStarted :                                                                                                                                                     \r\n\r                                                                                                                                                              \r\n\u001b[3A\u001b[3B"
+    ],
+    [
+      2.414241,
+      "\u001b[3A\rnasa_access.daily_urls_with_error : {DAY -> \"1995-08-08\"}                                                                                                     \r\n\rSuccess:  (2 seconds)                                                                                                                                         \r\n\r                                                                                                                                                              \r\n\u001b[3A\u001b[3B"
+    ],
+    [
+      0.303538,
+      "\u001b[6A\rnasa_access.daily_urls : {DAY -> \"1995-08-08\"}                                                                                                                \r\n\rSuccess:  (2 seconds)                                                                                                                                         \r\n\r                                                                                                                                                              \r\n\u001b[3A\u001b[3B\u001b[3B"
+    ],
+    [
+      0.001807,
+      "\rnasa_access.daily_url_error_rates : {DAY -> \"1995-08-08\"}                                                                                                     "
+    ],
+    [
+      0.000157,
+      "\r\n"
+    ],
+    [
+      9.6e-05,
+      "\rStarted :                                                                                                                                                     "
+    ],
+    [
+      9.3e-05,
+      "\r\n"
+    ],
+    [
+      9.3e-05,
+      "\r                                                                                                                                                              "
+    ],
+    [
+      9e-05,
+      "\r\n"
+    ],
+    [
+      0.000102,
+      "\u001b[3A\u001b[3B"
+    ],
+    [
+      1.31194,
+      "\u001b[3A\rnasa_access.daily_url_error_rates : {DAY -> \"1995-08-08\"}                                                                                                     \r\n\rSuccess:  (1 seconds)                                                                                                                                         \r\n\r                                                                                                                                                              \r\n\u001b[3A\u001b[3B"
+    ],
+    [
+      0.001273,
+      "flamy> "
+    ],
+    [
+      0.661754,
+      "run --on local nasa_access"
+    ],
+    [
+      0.177491,
+      "\b"
+    ],
+    [
+      0.348056,
+      "\b"
+    ],
+    [
+      0.009258,
+      "\b"
+    ],
+    [
+      0.014229,
+      "\b"
+    ],
+    [
+      0.013749,
+      "\b"
+    ],
+    [
+      0.014802,
+      "\b"
+    ],
+    [
+      0.01424,
+      "\b"
+    ],
+    [
+      0.014057,
+      "\b"
+    ],
+    [
+      0.013438,
+      "\b"
+    ],
+    [
+      0.014816,
+      "\b"
+    ],
+    [
+      0.013742,
+      "\b"
+    ],
+    [
+      0.013344,
+      "\b"
+    ],
+    [
+      0.014634,
+      "\b"
+    ],
+    [
+      0.014125,
+      "\b"
+    ],
+    [
+      0.014071,
+      "\b"
+    ],
+    [
+      0.014616,
+      "\b"
+    ],
+    [
+      0.014958,
+      "\b"
+    ],
+    [
+      0.014121,
+      "\b"
+    ],
+    [
+      0.013915,
+      "\b"
+    ],
+    [
+      0.014756,
+      "\b"
+    ],
+    [
+      0.014441,
+      "\b"
+    ],
+    [
+      0.014239,
+      "\b"
+    ],
+    [
+      0.014054,
+      "\b"
+    ],
+    [
+      0.197813,
+      "\b"
+    ],
+    [
+      0.250754,
+      "\u001b[C"
+    ],
+    [
+      0.355005,
+      "\b --on local nasa_access\u001b[K\u001b[23D"
+    ],
+    [
+      0.339011,
+      "\b --on local nasa_access\u001b[K\u001b[23D"
+    ],
+    [
+      0.014388,
+      "\b --on local nasa_access\u001b[K\u001b[23D"
+    ],
+    [
+      0.295642,
+      "d --on local nasa_access\u001b[23D"
+    ],
+    [
+      0.143904,
+      "e --on local nasa_access\u001b[23D"
+    ],
+    [
+      0.128063,
+      "s --on local nasa_access\u001b[23D"
+    ],
+    [
+      0.171662,
+      "c --on local nasa_access\u001b[23D"
+    ],
+    [
+      0.308917,
+      "r --on local nasa_access\u001b[23D"
+    ],
+    [
+      0.242228,
+      "\b --on local nasa_access\u001b[K\u001b[23D\b --on local nasa_access\u001b[K\u001b[23D\b --on local nasa_access\u001b[K\u001b[23D\b --on local nasa_access\u001b[K\u001b[23D\b --on local nasa_access\u001b[K\u001b[23Ddescribe --on local nasa_access\u001b[23D"
+    ],
+    [
+      0.402285,
+      "  --on local nasa_access\u001b[23D"
+    ],
+    [
+      0.177336,
+      "p --on local nasa_access\u001b[23D"
+    ],
+    [
+      0.068113,
+      "a --on local nasa_access\u001b[23D"
+    ],
+    [
+      0.096122,
+      "r --on local nasa_access\u001b[23D"
+    ],
+    [
+      0.297096,
+      "\b --on local nasa_access\u001b[K\u001b[23D\b --on local nasa_access\u001b[K\u001b[23D\b --on local nasa_access\u001b[K\u001b[23Dpartitions --on local nasa_access\u001b[23D"
+    ],
+    [
+      0.655032,
+      "\u001b[23C"
+    ],
+    [
+      0.541943,
+      "\r\r\n"
+    ],
+    [
+      0.313293,
+      "nasa_access.daily_logs\r\n"
+    ],
+    [
+      0.067282,
+      "+------------+------+-----------+---------------------+--------+\r\n|        day | size | num_files |   modification_time | format |\r\n+------------+------+-----------+---------------------+--------+\r\n| 1995-08-08 | 1 Mb |         1 | 2017-06-28 14:11:29 |    ORC |\r\n+------------+------+-----------+---------------------+--------+\r\n"
+    ],
+    [
+      4.4e-05,
+      "\r\nnasa_access.daily_url_error_rates\r\n"
+    ],
+    [
+      0.052356,
+      "+------------+-------+-----------+---------------------+--------+"
+    ],
+    [
+      9.8e-05,
+      "\r\n"
+    ],
+    [
+      8.3e-05,
+      "|        day |  size | num_files |   modification_time | format |"
+    ],
+    [
+      7.9e-05,
+      "\r\n"
+    ],
+    [
+      8e-05,
+      "+------------+-------+-----------+---------------------+--------+"
+    ],
+    [
+      0.000201,
+      "\r\n"
+    ],
+    [
+      8.3e-05,
+      "| 1995-08-08 | 676 b |         4 | 2017-06-28 14:11:33 |    ORC |"
+    ],
+    [
+      7.7e-05,
+      "\r\n"
+    ],
+    [
+      7.8e-05,
+      "+------------+-------+-----------+---------------------+--------+"
+    ],
+    [
+      6.9e-05,
+      "\r\n"
+    ],
+    [
+      0.000117,
+      "\r\n"
+    ],
+    [
+      0.000122,
+      "nasa_access.daily_urls"
+    ],
+    [
+      9.4e-05,
+      "\r\n"
+    ],
+    [
+      0.037146,
+      "+------------+-------+-----------+---------------------+--------+\r\n|        day |  size | num_files |   modification_time | format |\r\n+------------+-------+-----------+---------------------+--------+\r\n| 1995-08-08 | 20 Kb |         4 | 2017-06-28 14:11:31 |    ORC |\r\n+------------+-------+-----------+---------------------+--------+\r\n"
+    ],
+    [
+      0.000237,
+      "\r\nnasa_access.daily_urls_with_error\r\n"
+    ],
+    [
+      0.025795,
+      "+------------+------+-----------+---------------------+--------+\r\n|        day | size | num_files |   modification_time | format |\r\n+------------+------+-----------+---------------------+--------+\r\n| 1995-08-08 | 3 Kb |         4 | 2017-06-28 14:11:31 |    ORC |\r\n+------------+------+-----------+---------------------+--------+\r\n\r\n"
+    ],
+    [
+      0.004729,
+      "flamy> "
+    ],
+    [
+      0.765669,
+      "describe partitions --on local nasa_access"
+    ],
+    [
+      0.464704,
+      "\u001b[42D\u001b[Krun --on local nasa_access"
+    ],
+    [
+      0.501942,
+      "\u001b[26D"
+    ],
+    [
+      0.713992,
+      "-run --on local nasa_access\u001b[26D"
+    ],
+    [
+      0.142796,
+      "-run --on local nasa_access\u001b[26D"
+    ],
+    [
+      0.301698,
+      "vrun --on local nasa_access\u001b[26D"
+    ],
+    [
+      0.379157,
+      "arun --on local nasa_access\u001b[26D"
+    ],
+    [
+      0.181165,
+      "rrun --on local nasa_access\u001b[26D"
+    ],
+    [
+      0.298581,
+      "irun --on local nasa_access\u001b[26D"
+    ],
+    [
+      0.185249,
+      "arun --on local nasa_access\u001b[26D"
+    ],
+    [
+      0.291902,
+      "brun --on local nasa_access\u001b[26D"
+    ],
+    [
+      0.149125,
+      "lrun --on local nasa_access\u001b[26D"
+    ],
+    [
+      0.086172,
+      "erun --on local nasa_access\u001b[26D"
+    ],
+    [
+      0.073513,
+      "srun --on local nasa_access\u001b[26D"
+    ],
+    [
+      0.095979,
+      " run --on local nasa_access\u001b[26D"
+    ],
+    [
+      0.717221,
+      "\"run --on local nasa_access\u001b[26D"
+    ],
+    [
+      0.118735,
+      "\"run --on local nasa_access\u001b[26D"
+    ],
+    [
+      0.095589,
+      " run --on local nasa_access\u001b[26D"
+    ],
+    [
+      0.146845,
+      "\b"
+    ],
+    [
+      0.141029,
+      "\b"
+    ],
+    [
+      0.340201,
+      "D\" run --on local nasa_access\u001b[28D"
+    ],
+    [
+      0.127949,
+      "A\" run --on local nasa_access\u001b[28D"
+    ],
+    [
+      0.246292,
+      "Y\" run --on local nasa_access\u001b[28D"
+    ],
+    [
+      0.413371,
+      "=\" run --on local nasa_access\u001b[28D"
+    ],
+    [
+      0.286614,
+      "'\" run --on local nasa_access\u001b[28D"
+    ],
+    [
+      0.418841,
+      "'\" run --on local nasa_access\u001b[28D"
+    ],
+    [
+      0.184917,
+      "\b"
+    ],
+    [
+      0.516278,
+      "1'\" run --on local nasa_access\u001b[29D"
+    ],
+    [
+      0.355706,
+      "9'\" run --on local nasa_access\u001b[29D"
+    ],
+    [
+      0.165448,
+      "9'\" run --on local nasa_access\u001b[29D"
+    ],
+    [
+      0.442904,
+      "5'\" run --on local nasa_access\u001b[29D"
+    ],
+    [
+      0.741956,
+      "-'\" run --on local nasa_access\u001b[29D"
+    ],
+    [
+      0.66476,
+      "0'\" run --on local nasa_access\u001b[29D"
+    ],
+    [
+      0.694578,
+      "8'\" run --on local nasa_access\u001b[29D"
+    ],
+    [
+      0.556417,
+      "-'\" run --on local nasa_access\u001b[29D"
+    ],
+    [
+      0.472944,
+      "0'\" run --on local nasa_access\u001b[29D"
+    ],
+    [
+      0.165678,
+      "9'\" run --on local nasa_access\u001b[29D"
+    ],
+    [
+      0.471833,
+      "\u001b[29C"
+    ],
+    [
+      0.369643,
+      "\r\r\n"
+    ],
+    [
+      0.193496,
+      "INFO: Files analyzed: 12    Failures: 0\r\n"
+    ],
+    [
+      0.019458,
+      "\u001b[32mok: file:///home/user/model/nasa/facts.db/http_status/CREATE.hql\u001b[39m\r\n"
+    ],
+    [
+      0.002699,
+      "\u001b[32mok: file:///home/user/model/nasa/nasa_access.db/daily_logs/CREATE.hql\u001b[39m\r\n"
+    ],
+    [
+      0.002508,
+      "\u001b[32mok: file:///home/user/model/nasa/nasa_access.db/daily_url_error_rates/CREATE.hql\u001b[39m\r\n"
+    ],
+    [
+      0.00213,
+      "\u001b[32mok: file:///home/user/model/nasa/nasa_access.db/daily_urls/CREATE.hql\u001b[39m\r\n"
+    ],
+    [
+      0.00222,
+      "\u001b[32mok: file:///home/user/model/nasa/nasa_access.db/daily_urls_with_error/CREATE.hql\u001b[39m\r\n"
+    ],
+    [
+      0.003103,
+      "\u001b[32mok: file:///home/user/model/nasa/nasa_access_import.db/daily_logs/CREATE.hql\u001b[39m\r\n"
+    ],
+    [
+      0.017983,
+      "\u001b[32mok: file:///home/user/model/nasa/nasa_access.db/daily_logs/POPULATE.hql\u001b[39m\r\n"
+    ],
+    [
+      0.009558,
+      "\u001b[32mok: file:///home/user/model/nasa/nasa_access.db/daily_url_error_rates/POPULATE.hql\u001b[39m\r\n"
+    ],
+    [
+      0.007654,
+      "\u001b[32mok: file:///home/user/model/nasa/nasa_access.db/daily_urls/POPULATE.hql\u001b[39m\r\n"
+    ],
+    [
+      0.010017,
+      "\u001b[32mok: file:///home/user/model/nasa/nasa_access.db/daily_urls_with_error/POPULATE.hql\u001b[39m\r\n"
+    ],
+    [
+      0.000104,
+      "INFO: Files analyzed: 10    Failures: 0"
+    ],
+    [
+      3.4e-05,
+      "\r\n"
+    ],
+    [
+      0.007576,
+      "Running presets: model/model_PRESETS.hql\r\n"
+    ],
+    [
+      0.061743,
+      "\u001b[32mok: file:///home/user/model/model_PRESETS.hql\u001b[39m\r\n"
+    ],
+    [
+      0.03533,
+      "Preparing environment ... \r\n"
+    ],
+    [
+      0.001921,
+      "\u001b[32mok: file:///home/user/model/nasa/facts.db\u001b[39m\r\n"
+    ],
+    [
+      0.001549,
+      "\u001b[32mok: file:///home/user/model/nasa/nasa_access.db\u001b[39m\r\n"
+    ],
+    [
+      0.001367,
+      "\u001b[32mok: file:///home/user/model/nasa/nasa_access_import.db\u001b[39m\r\n"
+    ],
+    [
+      0.001626,
+      "\u001b[32mok: file:///home/user/model/nasa/nasa_access.db/daily_urls/CREATE.hql\u001b[39m\r\n"
+    ],
+    [
+      0.001523,
+      "\u001b[32mok: file:///home/user/model/nasa/nasa_access.db/daily_logs/CREATE.hql\u001b[39m\r\n"
+    ],
+    [
+      0.001486,
+      "\u001b[32mok: file:///home/user/model/nasa/nasa_access.db/daily_url_error_rates/CREATE.hql\u001b[39m\r\n"
+    ],
+    [
+      0.00176,
+      "\u001b[32mok: file:///home/user/model/nasa/nasa_access.db/daily_urls_with_error/CREATE.hql\u001b[39m\r\n"
+    ],
+    [
+      0.001652,
+      "\u001b[32mok: file:///home/user/model/nasa/nasa_access_import.db/daily_logs/CREATE.hql\u001b[39m\r\n"
+    ],
+    [
+      0.001753,
+      "\u001b[32mok: file:///home/user/model/nasa/facts.db/http_status/CREATE.hql\u001b[39m\r\n"
+    ],
+    [
+      0.003729,
+      "INFO: Files ran: 10    Failures: 0\r\n... environment prepared.\r\n"
+    ],
+    [
+      0.005606,
+      "\rnasa_access.daily_logs : {DAY -> '1995-08-09'}                                                                                                                "
+    ],
+    [
+      4.9e-05,
+      "\r\n"
+    ],
+    [
+      3.5e-05,
+      "\rStarted :                                                                                                                                                     "
+    ],
+    [
+      3.4e-05,
+      "\r\n"
+    ],
+    [
+      3.4e-05,
+      "\r                                                                                                                                                              "
+    ],
+    [
+      3.2e-05,
+      "\r\n"
+    ],
+    [
+      4.1e-05,
+      "\u001b[3A\u001b[3B"
+    ],
+    [
+      2.013281,
+      "\u001b[3A\rnasa_access.daily_logs : {DAY -> '1995-08-09'}                                                                                                                \r\n\rSuccess:  (1 seconds)                                                                                                                                         \r\n\r                                                                                                                                                              \r\n\u001b[3A\u001b[3B"
+    ],
+    [
+      0.001991,
+      "\rnasa_access.daily_urls : {DAY -> '1995-08-09'}                                                                                                                \r\n\rStarted :                                                                                                                                                     \r\n\r                                                                                                                                                              \r\n\u001b[3A\u001b[3B"
+    ],
+    [
+      0.001275,
+      "\rnasa_access.daily_urls_with_error : {DAY -> '1995-08-09'}                                                                                                     \r\n\rStarted :                                                                                                                                                     \r\n\r                                                                                                                                                              \r\n\u001b[3A\u001b[3B"
+    ],
+    [
+      2.111487,
+      "\u001b[6A\rnasa_access.daily_urls : {DAY -> '1995-08-09'}                                                                                                                \r\n\rSuccess:  (2 seconds)                                                                                                                                         \r\n\r                                                                                                                                                              \r\n\u001b[3A\u001b[3B\u001b[3B"
+    ],
+    [
+      0.001108,
+      "\u001b[3A\rnasa_access.daily_urls_with_error : {DAY -> '1995-08-09'}                                                                                                     \r\n\rSuccess:  (2 seconds)                                                                                                                                         \r\n\r                                                                                                                                                              \r\n\u001b[3A\u001b[3B"
+    ],
+    [
+      0.003363,
+      "\rnasa_access.daily_url_error_rates : {DAY -> '1995-08-09'}                                                                                                     \r\n\rStarted :                                                                                                                                                     \r\n\r                                                                                                                                                              \r\n\u001b[3A\u001b[3B"
+    ],
+    [
+      1.110645,
+      "\u001b[3A\rnasa_access.daily_url_error_rates : {DAY -> '1995-08-09'}                                                                                                     \r\n\rSuccess:  (1 seconds)                                                                                                                                         \r\n\r                                                                                                                                                              \r\n\u001b[3A\u001b[3B"
+    ],
+    [
+      0.00039,
+      "flamy> "
+    ],
+    [
+      0.643718,
+      "--variables \"DAY='1995-08-09'\" run --on local nasa_access"
+    ],
+    [
+      1.001032,
+      "\u001b[57D\u001b[Kdescribe partitions --on local nasa_access"
+    ],
+    [
+      0.621129,
+      "\r\r\n"
+    ],
+    [
+      0.162314,
+      "nasa_access.daily_logs"
+    ],
+    [
+      0.000162,
+      "\r\n"
+    ],
+    [
+      0.0847,
+      "+------------+------+-----------+---------------------+--------+\r\n|        day | size | num_files |   modification_time | format |\r\n+------------+------+-----------+---------------------+--------+\r\n| 1995-08-08 | 1 Mb |         1 | 2017-06-28 14:11:29 |    ORC |\r\n| 1995-08-09 | 1 Mb |         1 | 2017-06-28 14:11:55 |    ORC |\r\n+------------+------+-----------+---------------------+--------+"
+    ],
+    [
+      3.7e-05,
+      "\r\n\r\nnasa_access.daily_url_error_rates"
+    ],
+    [
+      0.000122,
+      "\r\n"
+    ],
+    [
+      0.076756,
+      "+------------+-------+-----------+---------------------+--------+\r\n|        day |  size | num_files |   modification_time | format |\r\n+------------+-------+-----------+---------------------+--------+\r\n| 1995-08-08 | 676 b |         4 | 2017-06-28 14:11:33 |    ORC |\r\n| 1995-08-09 |  1 Kb |         4 | 2017-06-28 14:11:59 |    ORC |\r\n+------------+-------+-----------+---------------------+--------+\r\n\r\nnasa_access.daily_urls\r\n"
+    ],
+    [
+      0.07357,
+      "+------------+-------+-----------+---------------------+--------+\r\n|        day |  size | num_files |   modification_time | format |\r\n+------------+-------+-----------+---------------------+--------+\r\n| 1995-08-08 | 20 Kb |         4 | 2017-06-28 14:11:31 |    ORC |\r\n| 1995-08-09 | 21 Kb |         4 | 2017-06-28 14:11:57 |    ORC |\r\n+------------+-------+-----------+---------------------+--------+\r\n\r\nnasa_access.daily_urls_with_error\r\n"
+    ],
+    [
+      0.052571,
+      "+------------+------+-----------+---------------------+--------+\r\n|        day | size | num_files |   modification_time | format |\r\n+------------+------+-----------+---------------------+--------+\r\n| 1995-08-08 | 3 Kb |         4 | 2017-06-28 14:11:31 |    ORC |\r\n| 1995-08-09 | 3 Kb |         4 | 2017-06-28 14:11:57 |    ORC |\r\n+------------+------+-----------+---------------------+--------+"
+    ],
+    [
+      0.000118,
+      "\r\n\r\n"
+    ],
+    [
+      0.001942,
+      "flamy> "
+    ],
+    [
+      1.050891,
+      "\r\n"
+    ]
+  ],
+  "width": 158,
+  "title": null,
+  "command": "./demo.sh",
+  "duration": 46.257679
+}

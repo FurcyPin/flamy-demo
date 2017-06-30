@@ -1,0 +1,450 @@
+{
+  "height": 25,
+  "width": 80,
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "version": 1,
+  "command": "./demo.sh",
+  "title": null,
+  "duration": 24.655055,
+  "stdout": [
+    [
+      0,
+      "flamy> "
+    ],
+    [
+      0.926978,
+      "d"
+    ],
+    [
+      0.182563,
+      "e"
+    ],
+    [
+      0.076751,
+      "s"
+    ],
+    [
+      0.200803,
+      "c"
+    ],
+    [
+      0.172545,
+      "r"
+    ],
+    [
+      0.193638,
+      "i"
+    ],
+    [
+      0.068191,
+      "b"
+    ],
+    [
+      0.154027,
+      "e"
+    ],
+    [
+      0.142225,
+      " "
+    ],
+    [
+      0.21947,
+      "p"
+    ],
+    [
+      0.091144,
+      "a"
+    ],
+    [
+      0.067857,
+      "r"
+    ],
+    [
+      0.22695,
+      "t"
+    ],
+    [
+      0.068809,
+      "i"
+    ],
+    [
+      0.077754,
+      "t"
+    ],
+    [
+      0.095325,
+      "i"
+    ],
+    [
+      0.176058,
+      "o"
+    ],
+    [
+      0.086684,
+      "n"
+    ],
+    [
+      0.027217,
+      "s"
+    ],
+    [
+      0.197171,
+      " "
+    ],
+    [
+      0.283928,
+      "-"
+    ],
+    [
+      0.131083,
+      "-"
+    ],
+    [
+      0.143278,
+      "o"
+    ],
+    [
+      0.10988,
+      "n"
+    ],
+    [
+      0.284912,
+      " "
+    ],
+    [
+      0.128448,
+      "l"
+    ],
+    [
+      0.18077,
+      "o"
+    ],
+    [
+      0.087504,
+      "c"
+    ],
+    [
+      0.094519,
+      "a"
+    ],
+    [
+      0.131764,
+      "l"
+    ],
+    [
+      0.170773,
+      " "
+    ],
+    [
+      0.194565,
+      "n"
+    ],
+    [
+      0.065325,
+      "a"
+    ],
+    [
+      0.192461,
+      "s"
+    ],
+    [
+      0.203797,
+      "a"
+    ],
+    [
+      0.363742,
+      "_"
+    ],
+    [
+      0.073207,
+      "a"
+    ],
+    [
+      0.177904,
+      "c"
+    ],
+    [
+      0.160096,
+      "c"
+    ],
+    [
+      0.124498,
+      "e"
+    ],
+    [
+      0.192073,
+      "s"
+    ],
+    [
+      0.146057,
+      "s"
+    ],
+    [
+      0.496465,
+      "_"
+    ],
+    [
+      0.202268,
+      "i"
+    ],
+    [
+      0.278412,
+      "m"
+    ],
+    [
+      0.185132,
+      "p"
+    ],
+    [
+      0.196542,
+      "o"
+    ],
+    [
+      0.09587,
+      "r"
+    ],
+    [
+      0.097657,
+      "t"
+    ],
+    [
+      0.321473,
+      "."
+    ],
+    [
+      0.177723,
+      "r"
+    ],
+    [
+      0.155067,
+      "a"
+    ],
+    [
+      0.459661,
+      "\b\u001b[K\b\u001b[Kraw_data "
+    ],
+    [
+      0.722353,
+      "\r\r\n"
+    ],
+    [
+      0.665631,
+      "nasa_access_import.raw_data\r\n"
+    ],
+    [
+      0.093066,
+      "+-------+------+-----------+-------------------+--------+\r\n| month | size | num_files | modification_time | format |\r\n+-------+------+-----------+-------------------+--------+\r\n+-------+------+-----------+-------------------+--------+\r\n"
+    ],
+    [
+      8.7e-05,
+      "\r\n"
+    ],
+    [
+      0.007778,
+      "flamy> "
+    ],
+    [
+      0.740391,
+      "describe partitions --on local nasa_access_import.raw_data "
+    ],
+    [
+      0.524255,
+      "\u001b[59D"
+    ],
+    [
+      0.246886,
+      "\u001b[C"
+    ],
+    [
+      0.34349,
+      "\u001b[C"
+    ],
+    [
+      0.013665,
+      "\u001b[C"
+    ],
+    [
+      0.014014,
+      "\u001b[C"
+    ],
+    [
+      0.014337,
+      "\u001b[C"
+    ],
+    [
+      0.01448,
+      "\u001b[C"
+    ],
+    [
+      0.013728,
+      "\u001b[C"
+    ],
+    [
+      0.01331,
+      "\u001b[C"
+    ],
+    [
+      0.014107,
+      "\u001b[C"
+    ],
+    [
+      0.013993,
+      "\u001b[C"
+    ],
+    [
+      0.014032,
+      "\u001b[C"
+    ],
+    [
+      0.014383,
+      "\u001b[C"
+    ],
+    [
+      0.013554,
+      "\u001b[C"
+    ],
+    [
+      0.014144,
+      "\u001b[C"
+    ],
+    [
+      0.01416,
+      "\u001b[C"
+    ],
+    [
+      0.013482,
+      "\u001b[C"
+    ],
+    [
+      0.014477,
+      "\u001b[C"
+    ],
+    [
+      0.013786,
+      "\u001b[C"
+    ],
+    [
+      0.014333,
+      "\u001b[C"
+    ],
+    [
+      0.014615,
+      "\u001b[C"
+    ],
+    [
+      0.29066,
+      "\b"
+    ],
+    [
+      0.229866,
+      "\b --on local nasa_access_import.raw_data \u001b[K\u001b[40D\b --on local nasa_access_import.raw_data \u001b[K\u001b[40D\b --on local nasa_access_import.raw_data \u001b[K\u001b[40D\b --on local nasa_access_import.raw_data \u001b[K\u001b[40D\b --on local nasa_access_import.raw_data \u001b[K\u001b[40D\b --on local nasa_access_import.raw_data \u001b[K\u001b[40D\b --on local nasa_access_import.raw_data \u001b[K\u001b[40D\b --on local nasa_access_import.raw_data \u001b[K\u001b[40D\b --on local nasa_access_import.raw_data \u001b[K\u001b[40D\b --on local nasa_access_import.raw_data \u001b[K\u001b[40D"
+    ],
+    [
+      0.169871,
+      "\b --on local nasa_access_import.raw_data \u001b[K\u001b[40D\b --on local nasa_access_import.raw_data \u001b[K\u001b[40D\b --on local nasa_access_import.raw_data \u001b[K\u001b[40D\b --on local nasa_access_import.raw_data \u001b[K\u001b[40D\b --on local nasa_access_import.raw_data \u001b[K\u001b[40D\b --on local nasa_access_import.raw_data \u001b[K\u001b[40D\b --on local nasa_access_import.raw_data \u001b[K\u001b[40D\b --on local nasa_access_import.raw_data \u001b[K\u001b[40D\b --on local nasa_access_import.raw_data \u001b[K\u001b[40D"
+    ],
+    [
+      0.587789,
+      "r --on local nasa_access_import.raw_data \u001b[40D"
+    ],
+    [
+      0.070666,
+      "e --on local nasa_access_import.raw_data \u001b[40D"
+    ],
+    [
+      0.175622,
+      "p --on local nasa_access_import.raw_data \u001b[40D"
+    ],
+    [
+      0.16617,
+      "a --on local nasa_access_import.raw_data \u001b[40D"
+    ],
+    [
+      0.140958,
+      "i --on local nasa_access_import.raw_data \u001b[40D"
+    ],
+    [
+      0.095912,
+      "r --on local nasa_access_import.raw_data \u001b[40D"
+    ],
+    [
+      0.258621,
+      "  --on local nasa_access_import.raw_data \u001b[40D"
+    ],
+    [
+      0.16398,
+      "t --on local nasa_access_import.raw_data \u001b[40D"
+    ],
+    [
+      0.088858,
+      "a --on local nasa_access_import.raw_data \u001b[40D"
+    ],
+    [
+      0.213931,
+      "b --on local nasa_access_import.raw_data \u001b[40D"
+    ],
+    [
+      0.141483,
+      "l --on local nasa_access_import.raw_data \u001b[40D"
+    ],
+    [
+      0.064136,
+      "e --on local nasa_access_import.raw_data \u001b[40D"
+    ],
+    [
+      0.068757,
+      "s --on local nasa_access_import.raw_data \u001b[40D"
+    ],
+    [
+      0.394439,
+      "\u001b[40C\r\r\n"
+    ],
+    [
+      0.301042,
+      "Running presets: model/model_PRESETS.hql\r\n"
+    ],
+    [
+      0.359614,
+      "\u001b[32mok: file:///home/user/model/model_PRESETS.hql\u001b[39m\r\n"
+    ],
+    [
+      0.589718,
+      "\u001b[32mok: nasa_access_import.raw_data\u001b[39m\r\n"
+    ],
+    [
+      0.00205,
+      "flamy> "
+    ],
+    [
+      0.75053,
+      "repair tables --on local nasa_access_import.raw_data "
+    ],
+    [
+      0.256532,
+      "\u001b[53D\u001b[Kdescribe partitions --on local nasa_access_import.raw_data "
+    ],
+    [
+      1.543904,
+      "\r\r\n"
+    ],
+    [
+      0.208232,
+      "nasa_access_import.raw_data\r\n"
+    ],
+    [
+      0.124657,
+      "+---------+-------+-----------+---------------------+----------+\r\n|   month |  size | num_files |   modification_time |   format |\r\n+---------+-------+-----------+---------------------+----------+\r\n| 1995-07 | 19 Mb |         1 | 2017-06-28 10:53:38 | TEXTFILE |\r\n| 1995-08 | 15 Mb |         1 | 2017-06-28 10:53:38 | TEXTFILE |\r\n+---------+-------+-----------+---------------------+----------+\r\n\r\n"
+    ],
+    [
+      0.001982,
+      "flamy> "
+    ],
+    [
+      1.286492,
+      "\r\n"
+    ]
+  ]
+}
