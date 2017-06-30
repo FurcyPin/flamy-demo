@@ -114,7 +114,7 @@
     ],
     [
       0.005444,
-      "Error found in table nasa_access.daily_logs `nasa_access.daily_logs` :\r\n  line 14:0 cannot recognize input near 'FROM' 'nasa_access_import' '.' in selection target\r\n-     L.line,\r\n>>> FROM nasa_access_import.daily_logs L\r\n-   LEFT JOIN facts.http_status H\r\n    Logs available at : file:///tmp/flamy-fpin/2017-06-26_15.47.46_22460@fpin-samsung/logs/nasa_access.db/daily_logs/POPULATE.hql.err"
+      "Error found in table nasa_access.daily_logs `nasa_access.daily_logs` :\r\n  line 14:0 cannot recognize input near 'FROM' 'nasa_access_import' '.' in selection target\r\n-     L.line,\r\n>>> FROM nasa_access_import.daily_logs L\r\n-   LEFT JOIN facts.http_status H\r\n    Logs available at : file:///tmp/flamy-user/2017-06-26_15.47.46_22460@user-host/logs/nasa_access.db/daily_logs/POPULATE.hql.err"
     ],
     [
       6.2e-05,
@@ -169,7 +169,7 @@
       "flamy> "
     ],
     [
-      0.996342,
+      10,
       "\r\n"
     ]
   ],

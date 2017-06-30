@@ -246,7 +246,7 @@
     ],
     [
       0.004445,
-      "FAILED: SemanticException [Error 10025]: Line 4:2 Expression not in GROUP BY key 'file_extension'\r\n    Logs available at : file:///tmp/flamy-fpin/2017-06-26_15.48.17_22584@fpin-samsung/logs/nasa_access.db/daily_urls/POPULATE.hql.err"
+      "FAILED: SemanticException [Error 10025]: Line 4:2 Expression not in GROUP BY key 'file_extension'\r\n    Logs available at : file:///tmp/flamy-user/2017-06-26_15.48.17_22584@user-host/logs/nasa_access.db/daily_urls/POPULATE.hql.err"
     ],
     [
       4.6e-05,
@@ -273,7 +273,7 @@
       "flamy> "
     ],
     [
-      0.698524,
+      10,
       "\r\n"
     ]
   ],
