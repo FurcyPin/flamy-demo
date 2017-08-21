@@ -9,6 +9,6 @@ Welcome to Flamy's demonstration repository.
 - Easily design, control and execute complex data workflows
 - Automatically infer and visualize dependencies between SQL queries
 
-This repository contains everything required to follow [flamy's quick demo](https://github.com/flaminem/flamy/wiki/Tutorial)
+This repository contains everything required to follow [flamy's quick demo](http://flamy.readthedocs.io/en/latest/Demo.html)
 
 
